@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>81.jpg</filename>
+	<path>C:\Users\Aayush\Desktop\object detection\data\images\New folder\81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>156</ymin>
+			<xmax>426</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>

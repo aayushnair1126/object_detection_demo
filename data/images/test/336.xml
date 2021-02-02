@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>336.jpg</filename>
+	<path>C:\Users\Aayush\Desktop\object detection\data\images\New folder\336.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>135</ymin>
+			<xmax>710</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>137</ymin>
+			<xmax>342</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>343.jpg</filename>
+	<path>C:\Users\Aayush\Desktop\object detection\data\images\New folder\343.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>277</ymin>
+			<xmax>565</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>king</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>262</ymin>
+			<xmax>275</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

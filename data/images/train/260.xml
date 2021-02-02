@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>260.jpg</filename>
+	<path>C:\Users\Aayush\Desktop\object detection\data\images\New folder\260.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>271</ymin>
+			<xmax>304</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>joker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>280</ymin>
+			<xmax>644</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>321.jpg</filename>
+	<path>C:\Users\Aayush\Desktop\object detection\data\images\New folder\321.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>120</ymin>
+			<xmax>359</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>164</ymin>
+			<xmax>612</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

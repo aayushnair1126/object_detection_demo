@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>121.jpg</filename>
+	<path>C:\Users\Aayush\Desktop\object detection\data\images\New folder\121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>238</ymin>
+			<xmax>494</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>318.jpg</filename>
+	<path>C:\Users\Aayush\Desktop\object detection\data\images\New folder\318.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>joker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>151</ymin>
+			<xmax>433</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>121</ymin>
+			<xmax>718</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

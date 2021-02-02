@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>279.jpg</filename>
+	<path>C:\Users\Aayush\Desktop\object detection\data\images\New folder\279.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>159</ymin>
+			<xmax>482</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>141</ymin>
+			<xmax>624</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>295.jpg</filename>
+	<path>C:\Users\Aayush\Desktop\object detection\data\images\New folder\295.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>joker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>149</ymin>
+			<xmax>454</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>joker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>114</ymin>
+			<xmax>737</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>
